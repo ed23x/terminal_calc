@@ -1,7 +1,7 @@
 # Terminal Calculator
 ## Execution:
 ```Bash
-cd terminal_calc-main
+cd terminal_calc
 cargo run
 ```
-Das wars :)
+
